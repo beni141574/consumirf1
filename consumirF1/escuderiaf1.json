@@ -1,0 +1,46 @@
+{
+
+    "lista-escuderias":[
+    {
+        "nombre":"Red-Bull",
+        "ranking":1,
+        "Piloto":"Liam Lawson",
+        "F1":"RB19",
+        "piezas-necesarias":["Aleron","neumaticos","asiento"],
+        "precio-piezas":"20000€",
+        "valoracion":[
+        "Nuestro piloto dice que el asiento es muy ancho", 
+        "el asiento pesa demasiado", 
+        "todo bien"]
+    },
+
+   {
+        "nombre":"Ferrari",
+        "ranking":2,
+        "Piloto":"Charles Leclerc",
+        "F1":"SF-23",
+        "piezas-necesarias":["Difusor","neumaticos","Conducto del freno"],
+        "precio-piezas":"62000€",
+        "valoracion":[
+        "Los neumaticos agarran muy bien",
+        "Buen difusor",
+        "Conducto de freno muy ligero, muy bien"
+    ]
+    },
+
+    {
+        "nombre":"Mercedes",
+        "ranking":3,
+        "Piloto":"Lewis Hamilton",
+        "F1":"W15",
+        "piezas-necesarias":["Generador de vórtices","Llanatas","Volante"],
+        "precio-piezas":"77000€",
+        "valoracion":[
+        "Muy bien y muy ligero todo",
+        "Generador de vortices correcto",
+        "El aleron de fibra de carbono muy buena calidad"
+    ]
+    }
+    ]
+
+}
